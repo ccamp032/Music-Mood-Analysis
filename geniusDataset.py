@@ -1,8 +1,7 @@
 import lyricsgenius as genius
 from pathlib import Path
-import spotipy as spot
+import string
 import json
-import csv
 
 # Grab token from config file
 genius_client_token = json.load(open('config.json'))
@@ -37,7 +36,7 @@ class geniusDataset:
 
     # Check if artist in file already exists
     def checkArist(self, name):
-        if Path('artist_jsons/{}.json'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', ''))).is_file():
+        if Path('artist_jsons/{}.json'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '').replace('!', '').replace('-', ''))).is_file():
             print('Already retrieved data for {}.'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '')))
             return True
         else:
