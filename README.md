@@ -11,11 +11,11 @@ The Genius API is where most of the data is extract from. Below are features tha
 
 1. Song artist
 2. Song title
-3. Song lyrics
-4. Number of words in lyric
-5. Number of pageviews for the lyric
-6. Release date of song
-7. How many featured artists
+3. Number of pageviews for the lyric
+4. Release data of song
+5. How many featured artists
+6. Number of words in lyric
+7. Song lyrics
 
 ## Spotify API
 From the Spotify API, we plan on getting a few features. Below are features that are planned:
