@@ -26,6 +26,7 @@ class Dataset:
 
     def generateCSV(self, row, data):
         for song in data['songs']:
+            #print(song.keys())
             # These if statements are here for
             # empty fields
             # If name is not a field, replace with 'NaN'
@@ -38,13 +39,23 @@ class Dataset:
                 row.append('NaN')
             else:
                 row.append(song['title'])
+
+            if 'album' not in song:
+                print('In here')
+                row.append('NaN')
+            else:
+                albumname = song['album']
+                if albumname == None:
+                    row.append('NaN')
+                else:
+                    row.append(song['album']['name'])
             # If pageviews is not a field, replace with 0
             if 'pageviews' not in song['stats']:
                 row.append(0)
             else:
                 row.append(song['stats']['pageviews'])
             # If release_date is not a field, replace with 'NaN'
-            if 'release_data' not in song:
+            if 'release_date' not in song:
                 row.append('NaN')
             else:
                 row.append(song['release_date'])
