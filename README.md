@@ -62,31 +62,33 @@ Based on the greatest similarity between track titles, the data from Spotify was
    - **DESCRIPTION**: Name of artist
 2. Song title
    - **DESCRIPTION**: Name of song
-3. Number of pageviews for the lyric
+3. Album Title
+   - **DESCRIPTION**: Name of album the song is from.
+4. Number of pageviews for the lyric
    - **DESCRIPTION**: Amount of views the lyric page got on the Genius website.
-4. Release data of song
+5. Release data of song
    - **DESCRIPTION**: The date the song was released
-5. How many featured artists
+6. How many featured artists
    - **DESCRIPTION**: The amount of artists featured on song
-6. Artist Popularity
+7. Artist Popularity
    - **DESCRIPTION**: How popular an artist is on Spotify. Range is 0-100.
-7. Genre(s)
+8. Genre(s)
    - **DESCRIPTION**: Genre the artist is considered as, separated by ' / '.
-8. Followers
+9. Followers
    - **DESCRIPTION**: The amount of users following an artist on Spotify
-9. Danceability
-   - **DESCRIPTION**: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable. (Gotten from Spotify)
-10. Energy
+10. Danceability
+    - **DESCRIPTION**: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable. (Gotten from Spotify)
+11. Energy
     - **DESCRIPTION**: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.
-11. Valence
+12. Valence
     - **DESCRIPTION**: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
-12. Duration (in Milliseconds)
+13. Duration (in Milliseconds)
     - **DESCRIPTION**: The length of the song in milliseconds
-13. Loudness
+14. Loudness
     - **DESCRIPTION**: The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typical range between -60 and 0 db.
-14. Total words in lyrics
+15. Total words in lyrics
     - **DESCRIPTION**: How many words each lyric has.
-15. Lyrics
+16. Lyrics
     - **DESCRIPTION**: The lyrics for the specific song.
 
 # Contributors
