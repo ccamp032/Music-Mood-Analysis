@@ -1,0 +1,15 @@
+1. Correlation between 'Danceability', 'Energy', 'Loudness' and 'Valence'.
+    - Maybe songs that are more danceable have less loudness or valence. Maybe songs with higher energy are not danceable. Something along these lines.
+2. Is artist popularity linked with any other feature? Does something seem to have an effect on artist popularity?
+    - Maybe the more danceable a song is, the more popular an artist is. Or the more words in the lyrics, the more popular. Etc.
+3. Check correlation between duration of song and amount of words.
+    - If the song is longer, maybe there are more words. Maybe not. 
+4. Correlate duration of song to genres.
+    - Some genres may have longer songs. (The genres column needs cleaning.)
+5. Sentiment analysis against every other feature.
+    - Once sentiment analysis is added to the main dataset, we can correlate more features to sentiment of lyrics.
+
+These are just some ideas. I also want to see how you did the sentiment analysis, Dmitri. I don't know what numbers you put for the analysis in your notebook. Are those numbers positive, negative, neutral or compound?
+I believe we can make each sentiment it's own column. So, positive, negative, neutral and compound can be separate columns.
+
+Another note on something I noticed on one song. A song by Ariana Grande called breathin has all the strings reversed, for some reason. Maybe we can clean that data, as well. 
