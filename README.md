@@ -41,7 +41,7 @@ From the parse table, we plan on creating a csv dataset with these features:
 2. Album Name
 3. US Sales 
 
-# Future Attributes
+## Future Attributes
 More features we want to add are sentiment extraction scores. Using [NLTK](https://text-processing.com/demo/sentiment/), we will input the lyrics to get a score that represents whether a lyric is deemed positive/negative/neutral. 
 
 
@@ -90,6 +90,13 @@ Based on the greatest similarity between track titles, the data from Spotify was
     - **DESCRIPTION**: How many words each lyric has.
 16. Lyrics
     - **DESCRIPTION**: The lyrics for the specific song.
+## Phase 2 EDA
+To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. In that directory a Jupyter notebook called `LyricDataset_Fin.ipynb` is where all the analysis done by all three members was done.
+
+### Contributions
+**Chris Daniels:** Cleaned some data, analyzed various combinations of release dates and genres. <br>
+**Christian Campos:** Cleaned data. Visualized correlations between various features using heatmaps and histograms. <br>
+**Dmitri Koltsov:** Cleaned data. Looked for correlations between various features and when found, did further analysis on features that seemed to have strong correlations.<br>
 
 # Contributors
 * Chris Daniels - https://github.com/ChairMane
