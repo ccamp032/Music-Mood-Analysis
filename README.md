@@ -91,7 +91,7 @@ Based on the greatest similarity between track titles, the data from Spotify was
 16. Lyrics
     - **DESCRIPTION**: The lyrics for the specific song.
 ## Phase 2 EDA
-To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. In that directory a Jupyter notebook called `LyricDataset_Fin.ipynb` is where all the analysis done by all three members was done.
+To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. There are `lyricsDataset.scv` and Jupyter notebook called `LyricDataset_Fin.ipynb` where all the analysis was done by all three members.
 
 ### Contributions
 **Chris Daniels:** Cleaned some data, analyzed various combinations of release dates and genres. <br>
