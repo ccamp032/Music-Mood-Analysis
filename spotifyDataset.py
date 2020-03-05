@@ -77,6 +77,7 @@ def getArtistTracks(id_dict):
 def getTrackFeatures(tracks):
     track_features = {}
     for track_name, track_id in tracks:
+        track = sp.track(track_id)
         features = sp.audio_features(track_id)
         track_features[track_name] = {}
         try:
@@ -84,6 +85,14 @@ def getTrackFeatures(tracks):
                 print('Got an error.')
                 track_features[track_name] = {'ERROR': 'No features for this track'}
             else:
+                if 'popularity' not in track:
+                    track_features[track_name]['popularity'] = 0
+                else:
+                    track_features[track_name]['popularity'] = track['popularity']
+                if 'explicity' not in track:
+                    track_features[track_name]['explicit'] = 'NaN'
+                else:
+                    track_features[track_name]['explicit'] = track['explicit']
                 if 'danceability' not in features[0]:
                     track_features[track_name]['danceability'] = 'NaN'
                 else:
@@ -124,7 +133,7 @@ def getArtistPopularity(id):
 
 
 def saveJson(spotify_dict):
-    with open('spotify_data.json', mode='w') as sd:
+    with open('spotify_data_updated.json', mode='w') as sd:
         json.dump(spotify_dict, sd)
 
 

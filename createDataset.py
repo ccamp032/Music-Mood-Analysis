@@ -109,7 +109,14 @@ class Dataset:
                 row.append(-1)
             else:
                 row.append(features['danceability'])
-
+            if 'popularity' not in features:
+                row.append(-1)
+            else:
+                row.append(features['popularity'])
+            if 'explicit' not in features:
+                row.append('NaN')
+            else:
+                row.append(features['explicit'])
             # IF energy is not a field, replace with -1
             if 'energy' not in features:
                 row.append(-1)
@@ -149,5 +156,5 @@ class Dataset:
             row.clear()
         lyric_file.close()
 
-CSV = Dataset('artist_jsons', 'spotify_data.json')
+CSV = Dataset('artist_jsons', 'spotify_data_updated.json')
 CSV.getJsonData()
