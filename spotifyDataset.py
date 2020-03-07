@@ -73,12 +73,17 @@ def getArtistTracks(id_dict):
 
     return tracks_list
 
+def getTrack(track_id):
+    return sp.track(track_id)
+
+def getAudioFeature(track_id):
+    return sp.audio_features(track_id)
 
 def getTrackFeatures(tracks):
     track_features = {}
     for track_name, track_id in tracks:
-        track = sp.track(track_id)
-        features = sp.audio_features(track_id)
+        track = getTrack(track_id)
+        features = getAudioFeature(track_id)
         track_features[track_name] = {}
         try:
             if features == None:
@@ -89,15 +94,16 @@ def getTrackFeatures(tracks):
                     track_features[track_name]['popularity'] = 0
                 else:
                     track_features[track_name]['popularity'] = track['popularity']
-                if 'explicity' not in track:
+                if 'explicit' not in track:
                     track_features[track_name]['explicit'] = 'NaN'
                 else:
                     track_features[track_name]['explicit'] = track['explicit']
+
                 if 'danceability' not in features[0]:
                     track_features[track_name]['danceability'] = 'NaN'
                 else:
                     track_features[track_name]['danceability'] = features[0]['danceability']
-
+                print('fuck')
                 if 'energy' not in features[0]:
                     track_features[track_name]['energy'] = 'NaN'
                 else:
@@ -117,6 +123,7 @@ def getTrackFeatures(tracks):
                     track_features[track_name]['loudness'] = 'NaN'
                 else:
                     track_features[track_name]['loudness'] = features[0]['loudness']
+
         except:
             print('Had an error inside try/except')
             track_features[track_name] = {'ERROR': 'No features for this track'}
