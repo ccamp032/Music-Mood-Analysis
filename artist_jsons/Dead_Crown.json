@@ -1,0 +1,4044 @@
+{
+ "description": {
+  "plain": "Dead Crown is a metal band from Portland, OR. Formed by members of some of Portlands top local and regional acts, they have set out on a new mission to deliver some of the heaviest, captivating music and live performances. In their first year as a band they embarked on two successful tours and started growing a fan base quick with their 2 singles \u201cDethrone\u201dand \u201cBlack Sheep\u201d. Their debut EP \u201cCome Hell\u201d received Billboard success as an independent release and was received greatly from fans around the world. The band was soon after approached by Stay Sick Recordings and offered a recording contract. With momentum on their side, Dead Crown has no plan of slowing down as they head into a new era on Stay Sick Recordings."
+ },
+ "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+ "alternate_names": [],
+ "url": "https://genius.com/artists/Dead-crown",
+ "facebook_name": null,
+ "current_user_metadata": {
+  "interactions": {
+   "following": false
+  },
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "permissions": [
+   "view_activity_stream"
+  ]
+ },
+ "is_verified": false,
+ "translation_artist": false,
+ "followers_count": 1,
+ "id": 1122869,
+ "is_meme_verified": false,
+ "songs": [
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/3062397",
+   "full_title": "Black Sheep by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-black-sheep-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.300x300x1.jpg",
+   "release_date": null,
+   "header_image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1332550518",
+   "lyrics_marked_complete_by": null,
+   "id": 3062397,
+   "description_annotation": {
+    "song_id": 3062397,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/3062397",
+     "link_title": "Black Sheep by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1492833931,
+      "lyrics_updated_at": 1492833931
+     },
+     "title": "Black Sheep",
+     "url": "https://genius.com/Dead-crown-black-sheep-lyrics",
+     "id": 3062397,
+     "image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/11709505/Dead-crown-black-sheep/Black-sheep",
+    "api_path": "/referents/11709505",
+    "annotator_login": "yungdirty",
+    "fragment": "Black Sheep",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/11709505",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/11709505/Dead-crown-black-sheep/Black-sheep",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v4zq9v24m0r",
+         "login": "yungdirty",
+         "api_path": "/users/321054",
+         "url": "https://genius.com/yungdirty",
+         "iq": 1181694,
+         "name": "yungdirty",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Editor",
+         "role_for_display": "editor",
+         "id": 321054
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/11709505",
+      "id": 11709505,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Black Sheep"
+    },
+    "path": "/11709505/Dead-crown-black-sheep/Black-sheep",
+    "id": 11709505,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 321054
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 1,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-black-sheep-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_3062397' class='rg_embed_link' data-song-id='3062397'>Read <a href='https://genius.com/Dead-crown-black-sheep-lyrics'>\u201cBlack Sheep\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/3062397/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=mOJ7H2l6ST4"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/3062397/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": null,
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "One step forward and five steps back\nIve given all ive got, and I have nothing left\nBut if you let go\nWe can be free of pain\nUntil the next life\nWhere we meet again\nThrough this valley all has came and left\nHave yet to forgive for anything\nJust trying to forget\nFeel no progress\nThose things you did to me\nLeft a monster in my head\nBut I haven't forgave you yet\nIm still trying to forget\nFalling in my shadow\nTaking steps into my grave\nEverywhere that i turn\nTheres a stranger staring back at me\nLove is shallow\nMy sympathies fake\nI keep chasing and searching for something\nThats already dead and gone away\nFuck\nAll my friends are dead\nOr maybe\nIm just dead to them\nIll never be the one to lift my fucking head\nYoull give it all you got\nAnd get nothing in the end\nBastards and black sheep\nThe feeling of belonging is a long lost story\nLook where optimism got me\nIm just hanging by a thread\nLet go\nIt never fucking ends\nThe other side of the line\nWith a noose around my neck\nLet go\nOutsiders hear me as i scream these words\nWhen the dark is so close that you can touch\nAnd every other way comes up too short\nBelieve me\nI can feel your pain\nI can feel\nMy mind starts to die\nMy body is rotting from inside to outside\nMy eyes begin to fade\nI've seen some things and now I've changed\nI wish i could go back and erase\nBut life is a debt you can never repay\nI've seen some things\nI wish i could erase\nI've seen some things and now\nI have changed",
+   "writer_artists": [],
+   "title_with_featured": "Black Sheep",
+   "header_image_thumbnail_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "Black Sheep",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Come-hell",
+    "full_title": "Come Hell by Dead Crown",
+    "api_path": "/albums/506914",
+    "id": 506914,
+    "name": "Come Hell",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4917987",
+   "full_title": "Twenty Four by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-twenty-four-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": "2019-10-03",
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143728",
+   "lyrics_marked_complete_by": null,
+   "id": 4917987,
+   "description_annotation": {
+    "song_id": 4917987,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4917987",
+     "link_title": "Twenty Four by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1574715141,
+      "lyrics_updated_at": 1574715141
+     },
+     "title": "Twenty Four",
+     "url": "https://genius.com/Dead-crown-twenty-four-lyrics",
+     "id": 4917987,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18164685/Dead-crown-twenty-four/Twenty-four",
+    "api_path": "/referents/18164685",
+    "annotator_login": "yungdirty",
+    "fragment": "Twenty Four",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18164685",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18164685/Dead-crown-twenty-four/Twenty-four",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tADdwR8ASFWxU45HgvUB_pngbase645d841fee964f7656.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v4zq9v24m0r",
+         "login": "yungdirty",
+         "api_path": "/users/321054",
+         "url": "https://genius.com/yungdirty",
+         "iq": 1181694,
+         "name": "yungdirty",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Editor",
+         "role_for_display": "editor",
+         "id": 321054
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18164685",
+      "id": 18164685,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Twenty Four"
+    },
+    "path": "/18164685/Dead-crown-twenty-four/Twenty-four",
+    "id": 18164685,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 321054
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-twenty-four-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4917987' class='rg_embed_link' data-song-id='4917987'>Read <a href='https://genius.com/Dead-crown-twenty-four-lyrics'>\u201cTwenty Four\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4917987/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=ed1SaagwTbc"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4917987/apple_music_player",
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "url": "https://genius.com/artists/Staysick-recordings",
+       "header_image_url": "https://images.genius.com/48d03b4217ee91f8ee6caf0cb8fc2400.959x959x1.jpg",
+       "api_path": "/artists/1715737",
+       "is_verified": false,
+       "name": "StaySick Recordings",
+       "image_url": "https://images.genius.com/48d03b4217ee91f8ee6caf0cb8fc2400.959x959x1.jpg",
+       "id": 1715737,
+       "is_meme_verified": false
+      }
+     ]
+    }
+   ],
+   "release_date_for_display": "October 3, 2019",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "Twenty four and I'm jaded, I'm burnt out and I'm weak\nAll I do is give,\u2005give,\u2005give and you\u2005just take from me\nEnd it all\u2005'cause your hopeless, I hope you fuckin' do it\nI used to have sympathy but y'all just fuckin' abused it\n\nGive nothing and take all\nHistory repeats itself, no resolve\n(Good faith is fucking gone)\nEmpathy worn out in me\n'Cause people like you\nBiting the hand that feeds\nLow blows, cheap shots at the end of it all\nMy shortcomings make you feel so tall\n\nHey, give me some peace of mind\nTake everything and then you leave me dry\nWalk on by, what the fuck did you think?\nDidn\u2019t work all my life just to do favors for free\nYou want my thoughts and opinions, yeah, you fail to listen\nLemme tell you one last time now\n\nRip the skin of my back like I got nothing to show\nIf you are all I have, I hope I die alone\nI hope I die alone, yeah\n\nDon't forget this when your hand's out for more\nI'm done being this, my thoughts I can't ignore\nShove my face in shit, feel you look down on me\nWhen it's convenient for you, everything I do is free\n\nYou follow me through my city\nOne sec, you tryna fuck with me\nGo act tough and then get shitty\nYou think I'm stupid, huh?\nWhile I ain't new to this, bruh\nYou've taken all I can give\nSo don't act cool next time I fuckin' see ya\n\nTwenty four and I'm jaded, I'm burnt out and I'm weak\nAll I do is give, give, give and you just take from me\nI feel nothing and it's 'cause of you, this song is to spite you\nI wrote this song just to spite you",
+   "writer_artists": [],
+   "title_with_featured": "Twenty Four",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "Twenty Four",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4325051",
+   "full_title": "Family by\u00a0Dead\u00a0Crown (Ft.\u00a0Felipe\u00a0Alema\u0301n)",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-family-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e140a232e56072348c2a3b0ac0156560.300x300x1.jpg",
+   "release_date": "2019-02-18",
+   "header_image_url": "https://images.genius.com/e140a232e56072348c2a3b0ac0156560.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1450053690",
+   "lyrics_marked_complete_by": null,
+   "id": 4325051,
+   "description_annotation": {
+    "song_id": 4325051,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4325051",
+     "link_title": "Family by\u00a0Dead\u00a0Crown (Ft.\u00a0Felipe\u00a0Alema\u0301n)",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1575646181,
+      "lyrics_updated_at": 1575646181
+     },
+     "title": "Family",
+     "url": "https://genius.com/Dead-crown-family-lyrics",
+     "id": 4325051,
+     "image_url": "https://images.genius.com/e140a232e56072348c2a3b0ac0156560.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/16531962/Dead-crown-family/Family",
+    "api_path": "/referents/16531962",
+    "annotator_login": "GVXsG",
+    "fragment": "Family",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/16531962",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/16531962/Dead-crown-family/Family",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lpe22n5we1",
+         "login": "GVXsG",
+         "api_path": "/users/4416031",
+         "url": "https://genius.com/GVXsG",
+         "iq": 4898,
+         "name": "GVXsG",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 4416031
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/16531962",
+      "id": 16531962,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Family"
+    },
+    "path": "/16531962/Dead-crown-family/Family",
+    "id": 16531962,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 4416031
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-family-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4325051' class='rg_embed_link' data-song-id='4325051'>Read <a href='https://genius.com/Dead-crown-family-lyrics'>\u201cFamily\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4325051/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/e140a232e56072348c2a3b0ac0156560.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=M-M5_xBDFWo"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4325051/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": "February 18, 2019",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 4416031,
+   "lyrics_state": "complete",
+   "lyrics": "All my life, the void I seek\nCan it get filled by the ones around me?\nMobbin' the 503, crackin' a 40\nHoldin' it down for me\nNever got what I need\nAll along you just moved on\nEvery time that I think about it\n\nTell me what is family?\n'Cause the one that I got doesn't do it for me\nTell me what could I have said\nTo ever make things feel like all our yesterdays did?\nSet it up\n\nCuando me cah\u00ed, me levantaron\nA nadie m\u00e1s le import\u00e9, ellos son mis hermanos\nNow you care, now you see?\nBlack sheep all my life and now you wanna understand me?\nYeah, fuck that shit\nWhile you talk I fuckin' live it\nShut your mouth and fuckin' listen\nListen to this shit hit\nYeah that\u2019s just Dead fucking Crown\nEllos siempre est\u00e1n aqu\u00ed, dime \u00bfdonde est\u00e1s tu?\nBut look around, I got all I need behind me\n\nTell me what is family?\n'Cause the one that I got doesn't do it for me\nTell me what could I have said\nTo ever make things feel like all our yesterdays did?\n\nTake me back, we only stood knee tall\nBack against the wall, we were there through it all\nForget about our history\nGot a new bitch then you up, up, up and leave\nYou wanna fuck with me?\nYou're not just fucking with anybody\nWish I still had you to lean on to\nDon't know what's real and that's my fucking issue\nNo shame in that shit\nWhen my brothers pick me up now\nI know they fucking mean it\n\nFamily and blood, that's what I was sold\nThe greatest fucking lie that was ever told\nFamily and blood, that's what I was sold\nThe blood in my body that flows, take it back\nI don't want that shit anymore\n\nYeah, yeah, yeah\nTake it back\nAll the blood that spilt, our teeth on the ground\nIt was us against the world, we had it all figured out\nTake it back\nI wish I could, I wish I fucking could",
+   "writer_artists": [
+    {
+     "url": "https://genius.com/artists/Kendall-johns",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "api_path": "/artists/1734259",
+     "is_verified": false,
+     "name": "Kendall Johns",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "id": 1734259,
+     "is_meme_verified": false
+    }
+   ],
+   "title_with_featured": "Family (Ft.\u00a0Felipe\u00a0Alema\u0301n)",
+   "header_image_thumbnail_url": "https://images.genius.com/e140a232e56072348c2a3b0ac0156560.300x300x1.jpg",
+   "featured_video": false,
+   "featured_artists": [
+    {
+     "url": "https://genius.com/artists/Felipe-aleman",
+     "header_image_url": "https://images.genius.com/0ef2a0072dfeae812d90b0c8899aaa1a.933x933x1.jpg",
+     "api_path": "/artists/1734247",
+     "is_verified": false,
+     "name": "Felipe Alema\u0301n",
+     "image_url": "https://images.genius.com/0ef2a0072dfeae812d90b0c8899aaa1a.933x933x1.jpg",
+     "id": 1734247,
+     "is_meme_verified": false
+    }
+   ],
+   "title": "Family",
+   "producer_artists": [
+    {
+     "url": "https://genius.com/artists/Kendall-johns",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "api_path": "/artists/1734259",
+     "is_verified": false,
+     "name": "Kendall Johns",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "id": 1734259,
+     "is_meme_verified": false
+    }
+   ],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920646",
+   "full_title": "Comin Up by\u00a0Dead\u00a0Crown (Ft.\u00a0Jake\u00a0Hill)",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-comin-up-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": "2019-12-05",
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143732",
+   "lyrics_marked_complete_by": null,
+   "id": 4920646,
+   "description_annotation": {
+    "song_id": 4920646,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920646",
+     "link_title": "Comin Up by\u00a0Dead\u00a0Crown (Ft.\u00a0Jake\u00a0Hill)",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1575649979,
+      "lyrics_updated_at": 1575649979
+     },
+     "title": "Comin Up",
+     "url": "https://genius.com/Dead-crown-comin-up-lyrics",
+     "id": 4920646,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172160/Dead-crown-comin-up/Comin-up",
+    "api_path": "/referents/18172160",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Comin Up",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172160",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172160/Dead-crown-comin-up/Comin-up",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172160",
+      "id": 18172160,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Comin Up"
+    },
+    "path": "/18172160/Dead-crown-comin-up/Comin-up",
+    "id": 18172160,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 1,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 3,
+    "unreviewed_annotations": 0,
+    "contributors": 3
+   },
+   "path": "/Dead-crown-comin-up-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920646' class='rg_embed_link' data-song-id='4920646'>Read <a href='https://genius.com/Dead-crown-comin-up-lyrics'>\u201cComin Up\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920646/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 1,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=I4soFoF1Br8"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920646/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": "December 5, 2019",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "Scratched and clawed, left blood sweat and tears\nLet me tell my story and fuckin' make\u2005this\u2005clear\nWere comin' up,\u2005comin' up\nWere comin' up, comin' up\n\nWay\u2005back then, got thrown in a van\nTwo brothers in a band with a bunch of bad plans\nTen years on the grind and no one can stop me\nDid my first tour at the age of fifteen\n\"You're not what they want\", yeah, that's what they told me\nNobody in this industry would fuckin' touch me\nStarted this shit and we ain't lookin back\nThen I signed my name on that motherfuckin' contract\n\nGot a line out the back with my boys, yeah, that's my shit\nGot a full house tonight, yeah, you know shit's gonna get lit\nAnd it goes on and on and on, yeah, we can never stop\nOn and on and on, catch us comin' up, yeah\n\nNo flesh on the bone, yeah, we bleed for this\nLet the record show we were never handed shit\nLet's get it\n\nSo, back up when I walk, you don't mean shit\nI just wanna throw you off in the deep end\nAnother punk ass bitch wanna talk down\nYou won't ever even lay a foot on where I walk now\nTo the ones that have tried to hold me back\nHere's a big fuck you till my pulse is flat\nI'm coming for their heads, that's a guarantee\nI'm someone you will never fucking be\nRoll that spliff, smoke that shit\nFuck that bitch, fuck your clique\nWho's got the last laugh now?\n\nGot a line out the back with my boys, yeah, that's my shit\nGot a full house tonight, yeah, you know shit's gonna get lit\nAnd it goes on and on and on, yeah, we can never stop\nOn and on and on, catch us comin' up\n\nCome so far from then\nYou'll never stop us now\nThat's what's up bitch\nSSR/SSC\nAnd we ain't takin shit from nobody\nI done crossed my T's and I dotted my I's\nI done stepped on the bus and railed those lines\nFuck with us, we're comin up\nYo, bring that back\nDrop it\nI done crossed my T's and I dotted my I's\nI done stepped on the bus and railed those lines\nFuck with us, we're comin up",
+   "writer_artists": [],
+   "title_with_featured": "Comin Up (Ft.\u00a0Jake\u00a0Hill)",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [
+    {
+     "url": "https://genius.com/artists/Jake-hill",
+     "header_image_url": "https://images.genius.com/ac9959798347ac21d7f79d5a3d60bbfd.1000x165x1.jpg",
+     "api_path": "/artists/976196",
+     "is_verified": false,
+     "name": "Jake Hill",
+     "image_url": "https://images.genius.com/e23bb85105f1053b077fbd81de5d8139.640x639x1.jpg",
+     "id": 976196,
+     "is_meme_verified": false
+    }
+   ],
+   "title": "Comin Up",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920645",
+   "full_title": "Down by\u00a0Dead\u00a0Crown (Ft.\u00a0DaBoiJ)",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-down-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": null,
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143729",
+   "lyrics_marked_complete_by": null,
+   "id": 4920645,
+   "description_annotation": {
+    "song_id": 4920645,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920645",
+     "link_title": "Down by\u00a0Dead\u00a0Crown (Ft.\u00a0DaBoiJ)",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1573225840,
+      "lyrics_updated_at": 1573225840
+     },
+     "title": "Down",
+     "url": "https://genius.com/Dead-crown-down-lyrics",
+     "id": 4920645,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172159/Dead-crown-down/Down",
+    "api_path": "/referents/18172159",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Down",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172159",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172159/Dead-crown-down/Down",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172159",
+      "id": 18172159,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Down"
+    },
+    "path": "/18172159/Dead-crown-down/Down",
+    "id": 18172159,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 1,
+    "verified_annotations": 0,
+    "iq_earners": 1,
+    "unreviewed_annotations": 0,
+    "contributors": 1
+   },
+   "path": "/Dead-crown-down-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920645' class='rg_embed_link' data-song-id='4920645'>Read <a href='https://genius.com/Dead-crown-down-lyrics'>\u201cDown\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920645/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=me-EAX4XqIc"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920645/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": null,
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 8243504,
+   "lyrics_state": "complete",
+   "lyrics": "On and on\nMy mind's a clock that just never stops\nBeen down for six weeks\nCount the\u2005hours\u2005of sleep I\u2005never got\nAsk me one time I'll\u2005say (\"I'm doing fine\")\nAsk me two times I'll say (\"I'm doing fine\")\nThird time you know's a fuckin' lie\nHurt myself just to come alive\n\nEveryday I awake, take a drink, numb the pain\nDrop a note, make it rain, but you know shit be fake\nBuy a gun, hold it tight, keep it on my bedside\nPull the trigger, say goodnight, yo, what the fuck is this?\nI ain't sick motherfucker, but I can't get outta bed\nYou ever feel that barrel get close too your head?\nForget what I said, forget what I meant\nForget bein' alive, I'd rather be dead, what?\n\n(Always down, always down)\nAlways down and can't seem to look up\nI'm all I have to blame\n(I'm all I have to blame)\nEveryday I feel something different\nBut it all just stays the same\nI'll say I'm doing fine\nBut I'll never be okay\nWhat, what?\n(On and on, my mind's...)\n\nOn and on\nMy mind's a clock that just never stops\nBeen down for six weeks\nCount the hours of sleep I never got\nAsk me one time I'll say (\"I'm doing fine\")\nAsk me two times I'll say (\"I'm doing fine\")\nThird time you know's a fuckin' lie\nHurt myself just to come alive\n\nMan, I been down like underground\nNo Tony Hawk sittin' in the park while it's dark, nigga fucked up\nFuck fame, money, and bitches, I'm fucked up\nThe definition of failure, nigga, tough luck\nJaded and all I want is my enemies apart\nBlank face, blunt mouthed wit' a empty heart\nFeel like I'm stuck in the sea and all I see is the sharks\nCan't run away from the pain when all you see is the dark\nStuck in the game, mind gone insane\nFrom the thangs that I got but it's anger and pain\nAll that I'll gain when I get to the top\nFeelin' the highs to get from the lows\nI'll never escape that's just how it goes\nTakin' a dose to warm when you froze\nNumb from the pain, I feel like a ghost\nFocus so I'll never fold, but paranoia's got a hold\nHaters keep me on my toes, this fuckin' game is gettin' old\nDepression's tryna burn me, gotta get up off the stove\nAin't tryna be another fuckin' dead failure story told\n\n(Always down, always down)\nAlways down and can't seem to look up\nI'm all I have to blame\n(I'm all I have to blame)\nEveryday I feel something different\nBut it all just stays the same, yeah",
+   "writer_artists": [],
+   "title_with_featured": "Down (Ft.\u00a0DaBoiJ)",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": false,
+   "featured_artists": [
+    {
+     "url": "https://genius.com/artists/Daboij",
+     "header_image_url": "https://images.genius.com/ffc5a24855f49459d9189db77b05c375.399x399x1.jpg",
+     "api_path": "/artists/1539536",
+     "is_verified": false,
+     "name": "DaBoiJ",
+     "image_url": "https://images.genius.com/ffc5a24855f49459d9189db77b05c375.399x399x1.jpg",
+     "id": 1539536,
+     "is_meme_verified": false
+    }
+   ],
+   "title": "Down",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/3511569",
+   "full_title": "The Seven by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-the-seven-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.300x300x1.jpg",
+   "release_date": "2018-02-09",
+   "header_image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1332550517",
+   "lyrics_marked_complete_by": null,
+   "id": 3511569,
+   "description_annotation": {
+    "song_id": 3511569,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/3511569",
+     "link_title": "The Seven by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1550623772,
+      "lyrics_updated_at": 1518215651
+     },
+     "title": "The Seven",
+     "url": "https://genius.com/Dead-crown-the-seven-lyrics",
+     "id": 3511569,
+     "image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/13814137/Dead-crown-the-seven/The-seven",
+    "api_path": "/referents/13814137",
+    "annotator_login": "Spamkiller1",
+    "fragment": "The Seven",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/13814137",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/13814137/Dead-crown-the-seven/The-seven",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ynqi0mm89pk",
+         "login": "Spamkiller1",
+         "api_path": "/users/1484854",
+         "url": "https://genius.com/Spamkiller1",
+         "iq": 0,
+         "name": "Spamkiller1",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Moderator",
+         "role_for_display": "moderator",
+         "id": 1484854
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/13814137",
+      "id": 13814137,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "The Seven"
+    },
+    "path": "/13814137/Dead-crown-the-seven/The-seven",
+    "id": 13814137,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 1484854
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 1,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-the-seven-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_3511569' class='rg_embed_link' data-song-id='3511569'>Read <a href='https://genius.com/Dead-crown-the-seven-lyrics'>\u201cThe Seven\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/3511569/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=v73U8hACgyU"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/3511569/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": "February 9, 2018",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "unreleased",
+   "lyrics": "          \n            Lyrics for this song have yet to be released. Please check back once the song has been released.\n          \n        ",
+   "writer_artists": [],
+   "title_with_featured": "The Seven",
+   "header_image_thumbnail_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "The Seven",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Come-hell",
+    "full_title": "Come Hell by Dead Crown",
+    "api_path": "/albums/506914",
+    "id": 506914,
+    "name": "Come Hell",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920644",
+   "full_title": "Old Friends by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-old-friends-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": "2019-12-05",
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143512",
+   "lyrics_marked_complete_by": null,
+   "id": 4920644,
+   "description_annotation": {
+    "song_id": 4920644,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920644",
+     "link_title": "Old Friends by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1575645774,
+      "lyrics_updated_at": 1575645719
+     },
+     "title": "Old Friends",
+     "url": "https://genius.com/Dead-crown-old-friends-lyrics",
+     "id": 4920644,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172158/Dead-crown-old-friends/Old-friends",
+    "api_path": "/referents/18172158",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Old Friends",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172158",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172158/Dead-crown-old-friends/Old-friends",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172158",
+      "id": 18172158,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Old Friends"
+    },
+    "path": "/18172158/Dead-crown-old-friends/Old-friends",
+    "id": 18172158,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 3,
+    "unreviewed_annotations": 0,
+    "contributors": 3
+   },
+   "path": "/Dead-crown-old-friends-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920644' class='rg_embed_link' data-song-id='4920644'>Read <a href='https://genius.com/Dead-crown-old-friends-lyrics'>\u201cOld Friends\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920644/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=l61pGFiuyUU"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920644/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": "December 5, 2019",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "Alright, listen up, motherfuckers\nThis song goes out to all my old friends\nWho were never really\u2005my\u2005friends at all\n\nRaise\u2005a fist if you fucking get\u2005it\nIf you're a victim too, then come and vibe with this shit\n\nFrom the hallways that haunt\nAll the people that taunt\nMade a fool out of me but I can wait to see\nWho I stand in front of in the end\nTight jaw motherfucker used to be loud\nYou was a bitch then, you still a bitch now\nPrey amongst the weak\n\nYeah, yeah\nWish I saw then what I fucking see now\nLiking all my shit, yeah, who\u2019s the fuckin' bitch now?\nYou made me carry all this hatred and greed\nAll the shit that we had doesn't mean shit to me\n\nRaise a fist if you fucking get it\nIf you're a victim too, then come and vibe with this shit\n\nFrom the memories that haunt\nAll that shit that you thought\nGot passed down, got flipped around\nDo you see me laughing now?\nI fucking hate the way\nOld shit, old days never fade away\nUps and downs\nDon't need you then, don't need you now\nI hope one day you hear this\nAnd it makes you fucking think\nThe ones I love\nAre the ones who fucking hate me\n\nToo all my old friends, fake people too\nI hope you hear this and know I fucking hate you\nWhat, what, I fucking hate you\nThat's right, motherfuckers\n\nPrey amongst the weak\nCan you honestly say you're who you want to be?\nIf you weren't miserable then, I pray you're down\nI hope you're miserable now",
+   "writer_artists": [],
+   "title_with_featured": "Old Friends",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "Old Friends",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920647",
+   "full_title": "Crucify Me by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-crucify-me-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": null,
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143737",
+   "lyrics_marked_complete_by": null,
+   "id": 4920647,
+   "description_annotation": {
+    "song_id": 4920647,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920647",
+     "link_title": "Crucify Me by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1576598384,
+      "lyrics_updated_at": 1576598384
+     },
+     "title": "Crucify Me",
+     "url": "https://genius.com/Dead-crown-crucify-me-lyrics",
+     "id": 4920647,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172161/Dead-crown-crucify-me/Crucify-me",
+    "api_path": "/referents/18172161",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Crucify Me",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172161",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172161/Dead-crown-crucify-me/Crucify-me",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172161",
+      "id": 18172161,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Crucify Me"
+    },
+    "path": "/18172161/Dead-crown-crucify-me/Crucify-me",
+    "id": 18172161,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 1,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 3,
+    "unreviewed_annotations": 0,
+    "contributors": 3
+   },
+   "path": "/Dead-crown-crucify-me-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920647' class='rg_embed_link' data-song-id='4920647'>Read <a href='https://genius.com/Dead-crown-crucify-me-lyrics'>\u201cCrucify Me\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920647/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 1,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=va6K40d6tvA"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920647/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": null,
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "Gather 'round, the myth has been sold\nThe truth is far out from what you've been\u2005told\nLove\u2005lost, no cost,\u2005it's what's meant to be\nThe ones\u2005I once held close now crucify me\n\nAll around trumpets sound\nYou know what it's about\nMy name starts in your ear\nAnd then slithers out your mouth\nNo facts, but hop on\nShove your finger in my face\nIf that's what gets you off, bitch\n\nThrough the halls, my children sing\nCrucify me\nFor they know not of what they do\nSo blindly\n\nWhen he saw that Jesus was condemned, he felt remorse and returned the pieces of silver to the priests and the elders\n\"I have sinned,\" he said, \"for I have betrayed innocent blood.\"\n\"What is that to us?\"\n\"That's your responsibility.\"\nThat's yours to keep\nWhen my face meets the flesh you run\nAnd turn the other cheek\n\nYou was on it back then, you were talkin'\nTalk a lot of shit but don't say none in public\nSave face so you turn your fuckin' back\nFace the facts, motherfucker, I paid for that\nMotherfucker, I paid for that\nMotherfucker, I paid for that\nAnd you ain't paid for shit\nYou broke ass bitch\n\nGather 'round, the myth has been sold\nThe truth is far out from what you've been told\nLove lost, no cost, it's what's meant to be\nThe ones I once held close now, can fuckin' suck me off\n\nThrough the halls, my children sing\nCrucify me\nFor they know not of what they do\nSo blindly\n\nFather, forgive them, for they know not what they do\nTruly, I say to You\nToday, You will be with me in paradise\nFather, in Your hands I rest my spirit\nFather, Father why have You forsaken me?\nMy hands bleed by the words of false prophets\nFather, You're not real but You have taught me\nFuck 'em all, let 'em keep talking\n\nI must be the Holy Ghost\nI must have risen, I overcome\nHear or say what you want\nIt makes no fucking difference\nI am the rising sun",
+   "writer_artists": [],
+   "title_with_featured": "Crucify Me",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "Crucify Me",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4325611",
+   "full_title": "Dethrone by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-dethrone-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3473ffd042b58da479b29fa2b129d4f1.300x300x1.jpg",
+   "release_date": "2018-04-13",
+   "header_image_url": "https://images.genius.com/3473ffd042b58da479b29fa2b129d4f1.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1332550519",
+   "lyrics_marked_complete_by": null,
+   "id": 4325611,
+   "description_annotation": {
+    "song_id": 4325611,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4325611",
+     "link_title": "Dethrone by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1550874874,
+      "lyrics_updated_at": 1550524043
+     },
+     "title": "Dethrone",
+     "url": "https://genius.com/Dead-crown-dethrone-lyrics",
+     "id": 4325611,
+     "image_url": "https://images.genius.com/3473ffd042b58da479b29fa2b129d4f1.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/16533402/Dead-crown-dethrone/Dethrone",
+    "api_path": "/referents/16533402",
+    "annotator_login": "GVXsG",
+    "fragment": "Dethrone",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/16533402",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/16533402/Dead-crown-dethrone/Dethrone",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lpe22n5we1",
+         "login": "GVXsG",
+         "api_path": "/users/4416031",
+         "url": "https://genius.com/GVXsG",
+         "iq": 4898,
+         "name": "GVXsG",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 4416031
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/16533402",
+      "id": 16533402,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Dethrone"
+    },
+    "path": "/16533402/Dead-crown-dethrone/Dethrone",
+    "id": 16533402,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 4416031
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 1,
+    "verified_annotations": 0,
+    "iq_earners": 1,
+    "unreviewed_annotations": 0,
+    "contributors": 1
+   },
+   "path": "/Dead-crown-dethrone-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4325611' class='rg_embed_link' data-song-id='4325611'>Read <a href='https://genius.com/Dead-crown-dethrone-lyrics'>\u201cDethrone\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4325611/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/3473ffd042b58da479b29fa2b129d4f1.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=Ku9u1KqCL2w"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4325611/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": "April 13, 2018",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 4416031,
+   "lyrics_state": "complete",
+   "lyrics": "(I'll show you end of days\nSomething only monsters create\nHeir to the throne you crown me)\nKing of hate\n(You are the one thing in life\nThat makes me tear out my eyes\nI see red for the first time)\nProgress is out of sight\nStepping stone\nHow do you fucking walk\nBeyond the line?\nI suffer at the thought\nYou are the leach that is sucking life through my skin\nBut no longer can you take advantage\nNo peace in my mind\nI want you to learn\nMake you pay\nMake you suffer inside\nMy ears bleed at the sound of your pathetic cries\nAdversary\nStrife, strike and struggle is all your want\nAssailant\nSo keep my name out of your mouth\nThree years a slow burn\nI\u2019ve had enough\nHelix down\nI die inside with every word and every move you make\nYou're slowly killing yourself\nAnd everybody else\nYou choose to close around\nSpit every word you say\nSlither like a snake\nI wonder how you got around\nWhen life comes to an end\nI'll put your in the ground\n(In the ground\nIn the ground\nIn the ground)\nNo one can hear you\nNo one can save you\nYou belong in dust\nStay away\nYou know this anger isn\u2019t temporary (temporary)\nNo god no being\nWould even save you momentarily (momentarily)\nI scream \"please leave\"\nYou are the face that my demons bare (my demons bare)\nWhat god what being\nWould even save you from your own worst fears?\nYour own worst fears\n(You are the one thing in life\nThat makes me tear out my eyes\nYou wanna see me fall)\nI wanna watch you fucking die\nHeir to the throne you crown me\nKing of hate",
+   "writer_artists": [],
+   "title_with_featured": "Dethrone",
+   "header_image_thumbnail_url": "https://images.genius.com/3473ffd042b58da479b29fa2b129d4f1.300x300x1.jpg",
+   "featured_video": false,
+   "featured_artists": [],
+   "title": "Dethrone",
+   "producer_artists": [
+    {
+     "url": "https://genius.com/artists/Alex-christian",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "api_path": "/artists/1734441",
+     "is_verified": false,
+     "name": "Alex Christian",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "id": 1734441,
+     "is_meme_verified": false
+    },
+    {
+     "url": "https://genius.com/artists/Chris-foster",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "api_path": "/artists/1097194",
+     "is_verified": false,
+     "name": "Chris Foster",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "id": 1097194,
+     "is_meme_verified": false
+    },
+    {
+     "url": "https://genius.com/artists/Eric-gemme",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "api_path": "/artists/1587385",
+     "is_verified": false,
+     "name": "Eric Gemme",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1583526157",
+     "id": 1587385,
+     "is_meme_verified": false
+    }
+   ],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Come-hell",
+    "full_title": "Come Hell by Dead Crown",
+    "api_path": "/albums/506914",
+    "id": 506914,
+    "name": "Come Hell",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/8b952d8f1fe8d539c73224b1e6b48b64.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920643",
+   "full_title": "Repent by\u00a0Dead\u00a0Crown",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-repent-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": null,
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143506",
+   "lyrics_marked_complete_by": null,
+   "id": 4920643,
+   "description_annotation": {
+    "song_id": 4920643,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920643",
+     "link_title": "Repent by\u00a0Dead\u00a0Crown",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1575645456,
+      "lyrics_updated_at": 1575645456
+     },
+     "title": "Repent",
+     "url": "https://genius.com/Dead-crown-repent-lyrics",
+     "id": 4920643,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172157/Dead-crown-repent/Repent",
+    "api_path": "/referents/18172157",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Repent",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172157",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172157/Dead-crown-repent/Repent",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172157",
+      "id": 18172157,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Repent"
+    },
+    "path": "/18172157/Dead-crown-repent/Repent",
+    "id": 18172157,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-repent-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920643' class='rg_embed_link' data-song-id='4920643'>Read <a href='https://genius.com/Dead-crown-repent-lyrics'>\u201cRepent\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920643/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=IV0a1ByP51s"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920643/apple_music_player",
+   "custom_performances": [],
+   "release_date_for_display": null,
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "I'm not perfect, I never said I was\nI been there, I done that, I stood\u2005for\u2005my cause\nCrucify me,\u2005cancel my shit\nRepent for my sins,\u2005lemme tell you what I wish\nI wish I could have been there more for my little brothers\nI wish I still had a good relationship with my father\nI wish I could back in time and punch that motherfucker\nI wish I had someone back then to say, \u201cI told ya\u201d\nLet's take this back\nDrop it",
+   "writer_artists": [],
+   "title_with_featured": "Repent",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [],
+   "title": "Repent",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  },
+  {
+   "verified_contributors": [],
+   "api_path": "/songs/4920648",
+   "full_title": "Worse Than Death by\u00a0Dead\u00a0Crown (Ft.\u00a0Aidan\u00a0Holmes)",
+   "verified_annotations_by": [],
+   "url": "https://genius.com/Dead-crown-worse-than-death-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "release_date": "2019-12-06",
+   "header_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "verified_lyrics_by": [],
+   "apple_music_id": "1479143740",
+   "lyrics_marked_complete_by": null,
+   "id": 4920648,
+   "description_annotation": {
+    "song_id": 4920648,
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "type": "Song",
+     "api_path": "/songs/4920648",
+     "link_title": "Worse Than Death by\u00a0Dead\u00a0Crown (Ft.\u00a0Aidan\u00a0Holmes)",
+     "context": "Dead Crown",
+     "client_timestamps": {
+      "updated_by_human_at": 1575648434,
+      "lyrics_updated_at": 1575648434
+     },
+     "title": "Worse Than Death",
+     "url": "https://genius.com/Dead-crown-worse-than-death-lyrics",
+     "id": 4920648,
+     "image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+    },
+    "url": "https://genius.com/18172162/Dead-crown-worse-than-death/Worse-than-death",
+    "api_path": "/referents/18172162",
+    "annotator_login": "SwallowAttack",
+    "fragment": "Worse Than Death",
+    "annotations": [
+     {
+      "has_voters": false,
+      "share_url": "https://genius.com/18172162",
+      "rejection_comment": null,
+      "custom_preview": null,
+      "url": "https://genius.com/18172162/Dead-crown-worse-than-death/Worse-than-death",
+      "current_user_metadata": {
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "permissions": [],
+       "iq_by_action": {}
+      },
+      "verified": false,
+      "comment_count": 0,
+      "state": "needs_exegesis",
+      "pinned": false,
+      "votes_total": 0,
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "avatar": {
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          },
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4ced5f8d99a18e39e8606b2a6920407a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4ced5f8d99a18e39e8606b2a6920407a",
+         "login": "SwallowAttack",
+         "api_path": "/users/8243504",
+         "url": "https://genius.com/SwallowAttack",
+         "iq": 27266,
+         "name": "SwallowAttack",
+         "current_user_metadata": {
+          "interactions": {
+           "following": false
+          },
+          "excluded_permissions": [
+           "follow"
+          ],
+          "permissions": []
+         },
+         "human_readable_role_for_display": "Contributor",
+         "role_for_display": "contributor",
+         "id": 8243504
+        }
+       }
+      ],
+      "community": true,
+      "api_path": "/annotations/18172162",
+      "id": 18172162,
+      "source": null,
+      "cosigned_by": [],
+      "verified_by": null,
+      "body": {
+       "plain": ""
+      }
+     }
+    ],
+    "is_description": true,
+    "range": {
+     "content": "Worse Than Death"
+    },
+    "path": "/18172162/Dead-crown-worse-than-death/Worse-than-death",
+    "id": 18172162,
+    "_type": "referent",
+    "classification": "needs_exegesis",
+    "annotator_id": 8243504
+   },
+   "stats": {
+    "accepted_annotations": 0,
+    "hot": false,
+    "transcribers": 2,
+    "verified_annotations": 0,
+    "iq_earners": 2,
+    "unreviewed_annotations": 0,
+    "contributors": 2
+   },
+   "path": "/Dead-crown-worse-than-death-lyrics",
+   "primary_artist": {
+    "url": "https://genius.com/artists/Dead-crown",
+    "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "api_path": "/artists/1122869",
+    "is_verified": false,
+    "name": "Dead Crown",
+    "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+    "id": 1122869,
+    "is_meme_verified": false
+   },
+   "embed_content": "<div id='rg_embed_link_4920648' class='rg_embed_link' data-song-id='4920648'>Read <a href='https://genius.com/Dead-crown-worse-than-death-lyrics'>\u201cWorse Than Death\u201d by Dead\u00a0Crown</a> on Genius</div> <script crossorigin src='//genius.com/songs/4920648/embed.js'></script>",
+   "song_art_image_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg",
+   "annotation_count": 0,
+   "media": [
+    {
+     "type": "video",
+     "start": 0,
+     "provider": "youtube",
+     "url": "http://www.youtube.com/watch?v=SlC_qrUeAYw"
+    }
+   ],
+   "description": {
+    "plain": "?"
+   },
+   "apple_music_player_url": "https://genius.com/songs/4920648/apple_music_player",
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "url": "https://genius.com/artists/Staysick-recordings",
+       "header_image_url": "https://images.genius.com/48d03b4217ee91f8ee6caf0cb8fc2400.959x959x1.jpg",
+       "api_path": "/artists/1715737",
+       "is_verified": false,
+       "name": "StaySick Recordings",
+       "image_url": "https://images.genius.com/48d03b4217ee91f8ee6caf0cb8fc2400.959x959x1.jpg",
+       "id": 1715737,
+       "is_meme_verified": false
+      }
+     ]
+    }
+   ],
+   "release_date_for_display": "December 6, 2019",
+   "current_user_metadata": {
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "iq_by_action": {},
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "view_react_song_page"
+    ],
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "relationships": {}
+   },
+   "song_relationships": [
+    {
+     "type": "samples",
+     "relationship_type": "samples",
+     "songs": []
+    },
+    {
+     "type": "sampled_in",
+     "relationship_type": "sampled_in",
+     "songs": []
+    },
+    {
+     "type": "interpolates",
+     "relationship_type": "interpolates",
+     "songs": []
+    },
+    {
+     "type": "interpolated_by",
+     "relationship_type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "type": "cover_of",
+     "relationship_type": "cover_of",
+     "songs": []
+    },
+    {
+     "type": "covered_by",
+     "relationship_type": "covered_by",
+     "songs": []
+    },
+    {
+     "type": "remix_of",
+     "relationship_type": "remix_of",
+     "songs": []
+    },
+    {
+     "type": "remixed_by",
+     "relationship_type": "remixed_by",
+     "songs": []
+    },
+    {
+     "type": "live_version_of",
+     "relationship_type": "live_version_of",
+     "songs": []
+    },
+    {
+     "type": "performed_live_as",
+     "relationship_type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "lyrics_owner_id": 321054,
+   "lyrics_state": "complete",
+   "lyrics": "We both made mistakes\nWish I could tell you how I feel\nBeing honest, living with this\u2005is\u2005starting to feel\nWorse\u2005than death\nThere's nothing worse than death\n\nNothing\u2005but silence when we\u2019re alone in a room\nWish you were there for me, wish I was there for you\nNever choked up, yeah, we got nothin' to prove\nWe both got too much pride to ask each other how it do\nIf we could take it back, I wonder if we would\n'Cause were one in the same, feeling misunderstood\nFighting\nWhen you were step-in to me and I was step-in to you\nLightly\nBut this shit was passed down to you to, a cycle of abuse\nIf we could live again, would it ever end?\nForever doubted\n\nHere we go again, how the fuck can I prove\nWhen I look in that goddamn mirror and all I see is you?\nThere is no fear in me, you know that is true\nWe got the same fucking genes, there\u2019s no fear in you too\nShit, raise your hands to me\nBe the man of the house like he wanted you to be\nShit, raise your hands to me\nBe the man of the house like he wanted you to be\n\nNothing but silence, now we're alone in a room\nBut I could never live to tell all the shit you put me through\nYou'd probably say the same, I would never take that from you\nBut we'll both just say nothin', 'cause that's what happy families do\nFuck it\n\nIf we could see back then\nWould we see the end?\nWould you lower a fist?\nWould you make amends?\nAnd if I'm keepin\u2019 this real\nLiving with this feels\nWorse than death\n\nWorse than death, drinkin\u2019 alone in my room\nWishin' you were there for me, wishin\u2019 I was there for you\nGot me choked up, what were we tryna prove?\nIn the end we both play the game, in the end we both lose",
+   "writer_artists": [],
+   "title_with_featured": "Worse Than Death (Ft.\u00a0Aidan\u00a0Holmes)",
+   "header_image_thumbnail_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.300x300x1.jpg",
+   "featured_video": true,
+   "featured_artists": [
+    {
+     "url": "https://genius.com/artists/Aidan-holmes",
+     "header_image_url": "https://images.genius.com/63b002039e40cc1ab8305b2700fa41e6.886x886x1.jpg",
+     "api_path": "/artists/1851133",
+     "is_verified": false,
+     "name": "Aidan Holmes",
+     "image_url": "https://images.genius.com/63b002039e40cc1ab8305b2700fa41e6.886x886x1.jpg",
+     "id": 1851133,
+     "is_meme_verified": false
+    }
+   ],
+   "title": "Worse Than Death",
+   "producer_artists": [],
+   "recording_location": null,
+   "album": {
+    "url": "https://genius.com/albums/Dead-crown/Crucify-me",
+    "full_title": "Crucify Me by Dead Crown",
+    "api_path": "/albums/567765",
+    "id": 567765,
+    "name": "Crucify Me",
+    "artist": {
+     "url": "https://genius.com/artists/Dead-crown",
+     "header_image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "api_path": "/artists/1122869",
+     "is_verified": false,
+     "name": "Dead Crown",
+     "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg",
+     "id": 1122869,
+     "is_meme_verified": false
+    },
+    "cover_art_url": "https://images.genius.com/ebc1c8cd0289b0b798bdab40bf72c9b3.1000x1000x1.jpg"
+   }
+  }
+ ],
+ "description_annotation": {
+  "song_id": null,
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "type": "Artist",
+   "api_path": "/artists/1122869",
+   "link_title": "Dead Crown",
+   "url": "https://genius.com/artists/Dead-crown",
+   "context": null,
+   "title": "Dead Crown",
+   "id": 1122869,
+   "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg"
+  },
+  "url": "https://genius.com/11709504/Dead-crown/Dead-crown",
+  "api_path": "/referents/11709504",
+  "annotator_login": "GVXsG",
+  "fragment": "Dead Crown",
+  "annotations": [
+   {
+    "has_voters": false,
+    "share_url": "https://genius.com/11709504",
+    "rejection_comment": null,
+    "custom_preview": null,
+    "url": "https://genius.com/11709504/Dead-crown/Dead-crown",
+    "current_user_metadata": {
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "permissions": [
+      "create_comment"
+     ],
+     "iq_by_action": {}
+    },
+    "verified": false,
+    "comment_count": 0,
+    "state": "pending",
+    "pinned": false,
+    "votes_total": 0,
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "avatar": {
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        },
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a8i3i0xx03e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lpe22n5we1",
+       "login": "GVXsG",
+       "api_path": "/users/4416031",
+       "url": "https://genius.com/GVXsG",
+       "iq": 4898,
+       "name": "GVXsG",
+       "current_user_metadata": {
+        "interactions": {
+         "following": false
+        },
+        "excluded_permissions": [
+         "follow"
+        ],
+        "permissions": []
+       },
+       "human_readable_role_for_display": "Contributor",
+       "role_for_display": "contributor",
+       "id": 4416031
+      }
+     }
+    ],
+    "community": true,
+    "api_path": "/annotations/11709504",
+    "id": 11709504,
+    "source": null,
+    "cosigned_by": [],
+    "verified_by": null,
+    "body": {
+     "plain": "Dead Crown is a metal band from Portland, OR. Formed by members of some of Portlands top local and regional acts, they have set out on a new mission to deliver some of the heaviest, captivating music and live performances. In their first year as a band they embarked on two successful tours and started growing a fan base quick with their 2 singles \u201cDethrone\u201dand \u201cBlack Sheep\u201d. Their debut EP \u201cCome Hell\u201d received Billboard success as an independent release and was received greatly from fans around the world. The band was soon after approached by Stay Sick Recordings and offered a recording contract. With momentum on their side, Dead Crown has no plan of slowing down as they head into a new era on Stay Sick Recordings."
+    }
+   }
+  ],
+  "is_description": true,
+  "range": {
+   "content": "Dead Crown"
+  },
+  "path": "/11709504/Dead-crown/Dead-crown",
+  "id": 11709504,
+  "_type": "referent",
+  "classification": "unreviewed",
+  "annotator_id": 4416031
+ },
+ "twitter_name": null,
+ "instagram_name": null,
+ "api_path": "/artists/1122869",
+ "user": null,
+ "name": "Dead Crown",
+ "image_url": "https://images.genius.com/c8380a2cfd52035e4b84184c9ec23208.960x960x1.jpg"
+}

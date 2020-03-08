@@ -84,6 +84,9 @@ def getTrackFeatures(tracks):
     for track_name, track_id in tracks:
         track = getTrack(track_id)
         features = getAudioFeature(track_id)
+        """print(features)
+        print(track)
+        choice = input()"""
         track_features[track_name] = {}
         try:
             if features == None:
@@ -103,7 +106,6 @@ def getTrackFeatures(tracks):
                     track_features[track_name]['danceability'] = 'NaN'
                 else:
                     track_features[track_name]['danceability'] = features[0]['danceability']
-                print('fuck')
                 if 'energy' not in features[0]:
                     track_features[track_name]['energy'] = 'NaN'
                 else:

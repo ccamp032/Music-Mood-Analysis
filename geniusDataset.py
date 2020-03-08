@@ -36,14 +36,14 @@ class geniusDataset:
 
     # Check if artist in file already exists
     def checkArist(self, name):
-        if Path('artist_jsons/{}.json'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '').replace('!', '').replace('-', ''))).is_file():
+        if Path('artist_jsons/{}.json'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '').replace('!', '').replace('-', '').replace('/', ''))).is_file():
             print('Already retrieved data for {}.'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '')))
             return True
         else:
-            print('Data for {} not retrieved yet, Retrieving now...'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '')))
+            print('Data for {} not retrieved yet, Retrieving now...'.format(name.replace(' ', '_').replace(',', '').replace('(', '').replace(')', '').replace('/', '')))
             return False
 
 # Create an API object that makes requests
 mood = geniusDataset(genius_client_token['genius_token'])
 # Download Json files for all artists in the 'artists' text file
-mood.getAllArtists('artists')
+mood.getAllArtists('artists_test')

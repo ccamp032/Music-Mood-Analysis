@@ -37,21 +37,22 @@ class Dataset:
                 correct_track = track
         return correct_track
 
-
-
-
     def generateCSV(self, row, data):
         if data['name'] == 'Beyoncé':
             NAME = 'Beyonce'
         else:
             NAME = data['name']
+        #print(NAME)
         artist_data = self.spotify_data[NAME]
         spotify_artist_songs = list(artist_data['track_features'].keys())
         artist_features = artist_data['artist_features']
         track_features = artist_data['track_features']
         for song in data['songs']:
             cor_track = self.matchTracks(song['title'], spotify_artist_songs)
-            features = track_features[cor_track]
+            if cor_track == '':
+                features = {}
+            else:
+                features = track_features[cor_track]
             # These if statements are here for
             # empty fields
             # If name is not a field, replace with 'NaN'
