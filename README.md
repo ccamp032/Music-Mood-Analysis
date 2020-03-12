@@ -94,7 +94,8 @@ Based on the greatest similarity between track titles, the data from Spotify was
 To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. There are `lyricsDataset.scv` and Jupyter notebook called `LyricDataset_Fin.ipynb` where all the analysis was done by all three members.
 
 ## Phase 3 - Data Analysis
-
+We conducted some experiments on which models to use, and which feature combinations work best with these models.
+<br> <br>
 Machine Learning Algorithms Used: <br>
 Linear Regression <br>
 K Nearest Neighbor <br>
@@ -103,14 +104,17 @@ Decision Tree <br>
 Gradient Boosting <br>
 AdaBoost <br>
 
-### Track Popularity Prediction
-We used regression algorithm such as linear regression AdaBoost Regressor and Decision Tree Regressor on track popularity.
-Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical value. 
-As a result, we broke popularity into 2 categories : One category is less 
 
+### Track Popularity Prediction
+Question: Can we predict a song track is popular or not based on its features? <br> 
+
+We used regression algorithm such as linear regression, AdaBoost Regressor,Gradient Boosting Regressor,Decision Tree Regressor, and Voting Regressor on track popularity based on its features.Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical. As a result, we broke popularity into 2 categories : One category is less 70 is not popular and one category is greater than or equal to 70. <br> Classfiers algorithm such as AdaBoost Classifier and Random Forest Classifier were used to predict the two categories based on its feature importance and cross validation scores. The classifier prediction rates are 92% accuracy. 
 
 ### Genre Prediction 
+We used k-nearest neighbor 
 
+As we can see best accuracy for Genre around 60%
+Popularity has better prediction rate
 
 ### Contributions
 **Chris Daniels:** Cleaned some data, analyzed various combinations of release dates and genres. <br>
