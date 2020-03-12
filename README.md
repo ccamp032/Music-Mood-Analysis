@@ -93,6 +93,25 @@ Based on the greatest similarity between track titles, the data from Spotify was
 ## Phase 2 EDA
 To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. There are `lyricsDataset.scv` and Jupyter notebook called `LyricDataset_Fin.ipynb` where all the analysis was done by all three members.
 
+## Phase 3 - Data Analysis
+
+Machine Learning Algorithms Used: <br>
+Linear Regression <br>
+K Nearest Neighbor <br>
+Random Forest <br>
+Decision Tree <br>
+Gradient Boosting <br>
+AdaBoost <br>
+
+### Track Popularity Prediction
+We used regression algorithm such as linear regression AdaBoost Regressor and Decision Tree Regressor on track popularity.
+Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical value. 
+As a result, we broke popularity into 2 categories : One category is less 
+
+
+### Genre Prediction 
+
+
 ### Contributions
 **Chris Daniels:** Cleaned some data, analyzed various combinations of release dates and genres. <br>
 **Christian Campos:** Cleaned data. Visualized correlations between various features using heatmaps and histograms. <br>
