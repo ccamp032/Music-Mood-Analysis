@@ -95,7 +95,7 @@ To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_
 
 ## Phase 3 - Data Analysis
 We conducted some experiments on which models to use, and which feature combinations work best with these models.
-<br> <br>
+<br>
 ### Machine Learning Algorithms
 Linear Regression <br>
 K Nearest Neighbor <br>
@@ -109,7 +109,7 @@ AdaBoost <br>
 2. Predicting song genre based on its features
 
 ### Track Popularity Prediction
-We used regression algorithm such as linear regression, AdaBoost Regressor,Gradient Boosting Regressor,Decision Tree Regressor, and Voting Regressor on track popularity based on its features.Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical. As a result, we broke popularity into 2 categories : One category is less 70 is not popular and one category is greater than or equal to 70. Classfiers algorithm such as AdaBoost Classifier and Random Forest Classifier were used to predict the two categories based on its feature importance and cross validation scores. The classifier prediction rates are 92% accuracy. 
+We used regression algorithm such as linear regression, AdaBoost Regressor,Gradient Boosting Regressor,Decision Tree Regressor, and Voting Regressor on track popularity based on its features.Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical. As a result, we broke popularity into 2 categories : One category that is less 70 is not popular and one category is greater than or equal to 70. Classfiers algorithm such as AdaBoost Classifier and Random Forest Classifier were used to predict the two categories based on its feature importance and cross validation scores. The classifier prediction rates are 92% accuracy. 
 
 ### Genre Prediction 
 To make a genre prediction, we used four classification algorithms: k-nearest neighbor , Random Forest, AdaBoost , and Decision Tree .
@@ -121,9 +121,10 @@ Song track popularity prediction has a better prediction rate of 92% than genre 
 
 
 ### Contributions
-**Chris Daniels:** Cleaned some data, analyzed various combinations of release dates and genres. <br>
-**Christian Campos:** Cleaned data. Visualized correlations between various features using heatmaps and histograms. <br>
-**Dmitri Koltsov:** Cleaned data. Looked for correlations between various features and when found, did further analysis on features that seemed to have strong correlations.<br>
+**Chris Daniels:** Proposed the hypothesis and used machine learning algorithms to predict genre and popularity. <br>
+**Christian Campos:** Used knn algorithm to predict the true genre labels vs predicted genre labels and demonstrated it using confusion matrix. <br>
+**Dmitri Koltsov:** Did further analysis on genre and popularity using different machine learning algorithms to find a good prediction rate accuracy to answer the hypothesis. <br>
+
 
 # Contributors
 * Chris Daniels - https://github.com/ChairMane
