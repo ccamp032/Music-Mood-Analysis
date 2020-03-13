@@ -119,13 +119,6 @@ The best knn accuracy for genre is approximately 60%; its not good enough. As a 
 ### Result
 Song track popularity prediction has a better prediction rate of 92% than genre prediction which is 60%.
 
-
-### Contributions
-**Chris Daniels:** Proposed the hypothesis and used machine learning algorithms to predict genre and popularity. <br>
-**Christian Campos:** Used knn algorithm to predict the true genre labels vs predicted genre labels and demonstrated it using confusion matrix. <br>
-**Dmitri Koltsov:** Did further analysis on genre and popularity using different machine learning algorithms to find a good prediction rate accuracy to answer the hypothesis. <br>
-
-
 # Contributors
 * Chris Daniels - https://github.com/ChairMane
 * Dmitri Koltsov - https://github.com/Dim314159
