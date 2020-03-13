@@ -93,7 +93,7 @@ Based on the greatest similarity between track titles, the data from Spotify was
 ## Phase 2 EDA
 To find the EDA done by Dark Kit Kat, look in the directory named `Phase_2_data_analysis/`. There are `lyricsDataset.scv` and Jupyter notebook called `LyricDataset_Fin.ipynb` where all the analysis was done by all three members.
 
-## Phase 3 - Data Analysis
+# Phase 3 - Data Analysis
 We conducted some experiments on which models to use, and which feature combinations work best with these models.
 <br>
 ### Machine Learning Algorithms
