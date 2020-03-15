@@ -109,6 +109,7 @@ AdaBoost <br>
 2. Predicting song genre based on its features
 
 ### Track Popularity Prediction
+We used features from our dataset which are independent from the target (popularity) to avoid data leakage.
 We used regression algorithm such as linear regression, AdaBoost Regressor,Gradient Boosting Regressor,Decision Tree Regressor, and Voting Regressor on track popularity based on its features.Track popularity prediction is approximating 16 - 17 % accuracy. It wasn't good enough so we decided to use categorical. As a result, we broke popularity into 2 categories : One category that is less 70 is not popular and one category is greater than or equal to 70. Classfiers algorithm such as AdaBoost Classifier and Random Forest Classifier were used to predict the two categories based on its feature importance and cross validation scores. The classifier prediction rates are 92% accuracy. 
 
 ### Genre Prediction 
